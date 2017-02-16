@@ -9,5 +9,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lorem ex, molest
 </a>
 
 <a href="http://stackoverflow.com/users/5915725/codepills">
-<img src="http://stackoverflow.com/users/flair/5915725.png?theme=clean" width="208" height="58" alt="profile for codepills at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for codepills at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+<img src="http://stackoverflow.com/users/flair/5915725.png?theme=dark" width="208" height="58" alt="profile for codepills at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for codepills at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
