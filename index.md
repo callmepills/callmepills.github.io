@@ -4,6 +4,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lorem ex, molest
 
 ### Find Me
 
+<a href="https://twitter.com/intent/tweet?screen_name=tweetpills_" class="twitter-mention-button" data-show-count="false">Tweet to @tweetpills_</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <a href="https://www.linkedin.com/pub/anthony-leveillee/37/9b7/aa4">
 <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Anthony Leveillee's profile on LinkedIn">
 </a>
